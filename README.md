@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rezzaernest
-- 👀 I’m interested in Quality assurancy
-- 🌱 I’m currently learning ISTQB
+- 👀 <strong>I’m interested in Quality assurance</strong>
+- 🌱 ISTQB Certified Tester
 - 💞️ I’m looking to collaborate on Bug reports
 - 📫 How to reach me 
 
