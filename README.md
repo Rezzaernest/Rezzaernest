@@ -3,8 +3,7 @@
 - 🌱 ISTQB Certified Tester
 - 💞️ I’m looking to collaborate on Bug reports
 - 📫 How to reach me 
-Linkedin -www.linkedin.com/in/ 
-mohamed-rezza-ernest
+Linkedin -www.linkedin.com/in/mohamed-rezza-ernest
 CodePen -https://codepen.io/rezzaernest
 <!---
 Rezzaernest/Rezzaernest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
