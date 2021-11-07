@@ -2,7 +2,8 @@
 - 👀 I’m interested in Quality assurance
 - 🌱 ISTQB Certified Tester
 - 💞️ I’m looking to collaborate on Bug reports
-- 📫 How to reach me: 
+- 📫 How to reach me:
+
 Linkedin -www.linkedin.com/in/mohamed-rezza-ernest
 CodePen -https://codepen.io/rezzaernest
 </strong>
