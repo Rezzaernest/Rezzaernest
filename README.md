@@ -1,10 +1,9 @@
-- 👋 <strong>Hi, I’m @Rezzaernest
-- 👀 I’m interested in Quality assurance
-- 🌱 ISTQB Certified Tester
-- 💞️ I’m looking to collaborate on Bug reports
-- 📫 How to reach me
+- 👋 Hi, I’m<strong> @Rezzaernest </strong>
+- 👀 I’m interested in <strong>Quality Assurance on Software Products and Learning Front-End Development </strong>
+- 🌱 ISTQB <strong>Certified Tester</strong>
+- 📫 How to <strong>reach me</strong>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="mohamed-rezza-ernest" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://za.linkedin.com/in/mohamed-rezza-ernest?trk=profile-badge">Linkedin-Mohamed Rezza Ernest</a></div>
-</strong>
+
 <!---
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 Rezzaernest/Rezzaernest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
